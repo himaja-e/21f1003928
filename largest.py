@@ -16,6 +16,5 @@ if st.button("Find the largest"):
         l=c
     else:
         l=a
-if st.button("Find the largest"):
     st.success(f"The largest number is {l}")
 
