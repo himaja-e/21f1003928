@@ -1,9 +1,9 @@
 import streamlit as st
 
-def largest_num(a, b, c):
-    return max(a, b, c)
 
-st.title("Find the largest of three numbers")
+
+st.title("Largest of three numbers")
+st.write("Find the largest of the three numbers")
 
 a = st.number_input("Enter the first number")
 b = st.number_input("Enter the second number")
