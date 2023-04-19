@@ -17,4 +17,4 @@ def main():
       l=a
 
     st.write("Largest number is", l)
-streamlit run 21f1003928.py
+!streamlit run 21f1003928.py
