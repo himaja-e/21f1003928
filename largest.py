@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.title("largest of three numbers")
 a=st.number_input(int(input("Enter the first number")))
 b=st.number_input(int(input("Enter the second number")))
 c=st.number_input(int(input("Enter the third number")))
